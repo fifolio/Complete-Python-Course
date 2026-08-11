@@ -8,3 +8,4 @@ Python Tutorial 2026 | Complete Python Course (Beginner to Advanced) | Telusko
 ✅ Python Dictionary   | 11
 ✅ Python Function     | 12
 ✅ Python Module       | 16
+✅ Python Swapping of Variables    | 17
