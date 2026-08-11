@@ -14,3 +14,4 @@ Python Tutorial 2026 | Complete Python Course (Beginner to Advanced) | Telusko
 ✅ Python Nested If  | 21
 ✅ Python elif  | 22
 ✅ Python Match  | 23
+✅ Python Loop  | 24
