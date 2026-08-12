@@ -29,3 +29,4 @@ Python Tutorial 2026 | Complete Python Course (Beginner to Advanced) | Telusko
 ✅ Python Decorators               | 39
 ✅ Python Modules & Packages       | 40
 ✅ Python OOP                      | 43
+✅ Python OOP (Types of methods)   | 44
