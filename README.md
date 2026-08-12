@@ -24,3 +24,4 @@ Python Tutorial 2026 | Complete Python Course (Beginner to Advanced) | Telusko
 ✅ Python Recursion                | 32
 ✅ Python Anonymous function       | 35
 ✅ Python filter                   | 36
+✅ Python MapReduce                | 37
