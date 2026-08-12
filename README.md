@@ -18,4 +18,5 @@ Python Tutorial 2026 | Complete Python Course (Beginner to Advanced) | Telusko
 ✅ Python For Loop                 | 25
 ✅ Python For Loop                 | 25
 ✅ Python Break & Continue         | 26
-✅ Python Array         | 27
+✅ Python Array                    | 27
+✅ Python Array function           | 28
