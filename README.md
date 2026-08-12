@@ -25,3 +25,4 @@ Python Tutorial 2026 | Complete Python Course (Beginner to Advanced) | Telusko
 ✅ Python Anonymous function       | 35
 ✅ Python filter                   | 36
 ✅ Python MapReduce                | 37
+✅ Python Inner Function           | 38
