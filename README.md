@@ -27,3 +27,4 @@ Python Tutorial 2026 | Complete Python Course (Beginner to Advanced) | Telusko
 ✅ Python MapReduce                | 37
 ✅ Python Inner Function           | 38
 ✅ Python Decorators               | 39
+✅ Python Modules & Packages       | 40
