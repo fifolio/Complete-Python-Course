@@ -22,3 +22,4 @@ Python Tutorial 2026 | Complete Python Course (Beginner to Advanced) | Telusko
 ✅ Python Array function           | 28
 ✅ Python Factorial                | 31
 ✅ Python Recursion                | 32
+✅ Python Anonymous function       | 35
