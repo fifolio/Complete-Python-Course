@@ -20,3 +20,4 @@ Python Tutorial 2026 | Complete Python Course (Beginner to Advanced) | Telusko
 ✅ Python Break & Continue         | 26
 ✅ Python Array                    | 27
 ✅ Python Array function           | 28
+✅ Python Factorial                | 31
